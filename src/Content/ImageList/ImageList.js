@@ -44,7 +44,7 @@ const itemData = [
     title: 'Succulent Cake',
   },
   {
-    img: 'img3.jpg',
+    img: 'img5.jpg',
     title: 'Wedding Cake',
   },
   {
@@ -58,8 +58,8 @@ const itemData = [
     cols: 2,
   },
   {
-    img: 'img5.jpg',
-    title: 'Flamingo Cake',
+    img: 'img3.jpg',
+    title: 'Wedding Cake',
     rows: 2,
     cols: 2,
   },

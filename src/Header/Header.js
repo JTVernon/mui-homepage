@@ -25,6 +25,11 @@ const Header = () => {
             >
                 Broken Bowl
             </CustomizedTypography>
+            <Box marginLeft={'auto'}>
+             <Button href='https://www.instagram.com/thebrokenbowlblog/' target="_blank">
+                <InstagramIcon sx={{color: 'black', padding: 1}} />
+             </Button>
+            </Box>
             <DrawerComponent links={links} />
         </Box> 
         ) : (
